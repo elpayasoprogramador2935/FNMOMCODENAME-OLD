@@ -5,14 +5,14 @@
 	<lib name="lime"  version="8.0.2"/>
 
 	<!-- Flixel -->
-	<git name="flixel" url="https://github.com/FNF-CNE-Devs/flixel" />
-	<git name="flixel-addons" url="https://github.com/FNF-CNE-Devs/flixel-addons" />
+	<git name="flixel" url="https://github.com/FNF-CNE-Devs/flixel" ref="old" />
+	<git name="flixel-addons" url="https://github.com/FNF-CNE-Devs/flixel-addons" ref="old" />
 
 	<!-- Other Libraries -->
 	<git name="hscript-improved" url="https://github.com/FNF-CNE-Devs/hscript-improved" ref="custom-classes" />
 	<git name="discord-rpc" url="https://github.com/Aidan63/linc_discord-rpc" />
-	<git name="flxanimate" url="https://github.com/FNF-CNE-Devs/flxanimate" />
-	<lib name="hxvlc" />
+	<git name="flxanimate" url="https://github.com/FNF-CNE-Devs/flxanimate" ref="ce211ad03b879ae4fca523e66762bc74b9bc315a" />
+	<lib name="hxvlc" version="1.9.3"/>
 
 	<!-- Documentation and other features -->
 	<lib name="away3d" />
